@@ -2,7 +2,7 @@
 
 
 # Add Two Numbers in Python
- # Author: Your Name here
+ # Author: Shengming Zhang
  # Using a function
  # function to add two numbers
  def add(a,b):
