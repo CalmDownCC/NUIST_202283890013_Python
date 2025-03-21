@@ -1,0 +1,5 @@
+a = int(3)
+b = int(4)
+c = int(5)
+d = int(a*b*c)
+print(d)
